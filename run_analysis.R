@@ -1,5 +1,5 @@
 
-R version 3.4.0 (2017-04-21) -- "You Stupid Darkness"
+R version 3.4.0 (2017-04-21) -- 
 Copyright (C) 2017 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
@@ -19,7 +19,7 @@ Type 'q()' to quit R.
 
 > library(plyr)
 Warning message:
-package ‘plyr’ was built under R version 3.4.1 
+package â€˜plyrâ€™ was built under R version 3.4.1 
 > library(data.table)
 data.table 1.10.4
   The fastest way to learn (by data.table authors): https://www.datacamp.com/courses/data-analysis-the-data-table-way
